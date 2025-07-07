@@ -1,46 +1,41 @@
-# sqa-portfolio
-Hi! I'm Wika! I'm passionate learner of software testing.
+# 📁 SQA Portfolio
+
+👋 Hi! I'm Wika! I'm a passionate learner of software testing.
+
+---
+
 ## 🔗 Table of Contents
 - [📜 About Me](#about-me)
 - [📁 Projects](#projects)
 - [🎓 Courses, Training and Mentoring](#courses-training-and-mentoring)
 - [📫 How to Reach Me](#how-to-reach-me)
 
-
-
-
-
-
-
-
-
-
-
-
 ---
 
 ## 📜 About Me
-Yahan tumhara intro / story hoga
+
+Welcome to my testing portfolio. I'm a passionate beginner in manual testing with a strong background in pharmaceutical quality control. I'm enthusiastic about learning through hands-on projects and eager to contribute to real-world testing teams.
 
 ---
 
 ## 📁 Projects
-Yahan tumhare test projects ka description hoga
+
+- ✅ DARE IT Manual Testing Project  
+- ✅ DARE IT Automated Testing Project  
 
 ---
 
 ## 🎓 Courses, Training and Mentoring
-Yahan tumhare courses aur certificates likhe honge
+
+- Manual Testing – DARE IT  
+- Automated Testing (Basics) – DARE IT  
+- ISTQB Foundation (in progress)  
+- Agile Fundamentals – LinkedIn Learning  
 
 ---
 
 ## 📫 How to Reach Me
-Yahan tumhara email, LinkedIn ya contact info hoga
 
-
-
-
-
-
-
-Added Table of Contents with anchor links
+- 📧 Email: wmozalewska@gmail.com  
+- 🔗 LinkedIn: [Your LinkedIn Profile](#) *(replace this with actual link)*  
+- 💼 Open to internships, freelance, and QA learning roles  
