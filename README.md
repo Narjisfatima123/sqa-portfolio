@@ -7,6 +7,16 @@ i! I'm Wika! I'm passionate learner of software testing.
 - [📫 How to Reach Me](#how-to-reach-me)
 
 
+
+
+
+
+
+
+
+
+
+
 ---
 
 ## 📜 About Me
@@ -26,4 +36,12 @@ Yahan tumhare courses aur certificates likhe honge
 
 ## 📫 How to Reach Me
 Yahan tumhara email, LinkedIn ya contact info hoga
+
+
+
+
+
+
+
+Added main portfolio sections
 
