@@ -6,7 +6,7 @@
 
 ## 🔗 Table of Contents
 - [About Me](#about-me)
-- [📁 Projects](#projects)
+- 📁 [Projects](#projects)
 - [🎓 Courses, Training and Mentoring](#courses-training-and-mentoring)
 - [📫 How to Reach Me](#how-to-reach-me)
 
@@ -23,7 +23,7 @@ Welcome to my testing portfolio. I'm a passionate beginner in manual testing wit
 
 ---
 
-## 📁 Projects
+ 📁 ## Projects
 
 - ✅ DARE IT Manual Testing Project  
 - ✅ DARE IT Automated Testing Project  
