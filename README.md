@@ -43,5 +43,4 @@ Yahan tumhara email, LinkedIn ya contact info hoga
 
 
 
-Added main portfolio sections
-
+Added Table of Contents with anchor links
