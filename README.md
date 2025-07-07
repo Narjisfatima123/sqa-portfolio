@@ -10,7 +10,12 @@
 - [🎓 Courses, Training and Mentoring](#courses-training-and-mentoring)
 - [📫 How to Reach Me](#how-to-reach-me)
 
----
+- [About Me] (#about-me)
+-[Projects] (#projects)
+- [Courses, Training and Mentoring]
+
+---------------
+
 
 ## 📜 About Me
 
