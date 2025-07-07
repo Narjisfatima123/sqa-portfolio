@@ -17,7 +17,7 @@
 ---------------
 
 
-## 📜 About Me
+## About Me
 
 Welcome to my testing portfolio. I'm a passionate beginner in manual testing with a strong background in pharmaceutical quality control. I'm enthusiastic about learning through hands-on projects and eager to contribute to real-world testing teams.
 
