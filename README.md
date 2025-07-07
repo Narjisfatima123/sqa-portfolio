@@ -6,9 +6,9 @@
 
 ## 🔗 Table of Contents
 - [About Me](#about-me)
-- 📁 [Projects](#projects)
-- [🎓 Courses, Training and Mentoring](#courses-training-and-mentoring)
-- [📫 How to Reach Me](#how-to-reach-me)
+- [Projects](#projects)
+- [Courses, Training and Mentoring](#courses-training-and-mentoring)
+- [How to Reach Me](#how-to-reach-me)
 
 - [About Me] (#about-me)
 -[Projects] (#projects)
@@ -23,14 +23,14 @@ Welcome to my testing portfolio. I'm a passionate beginner in manual testing wit
 
 ---
 
- 📁 ## Projects
+ ## Projects
 
 - ✅ DARE IT Manual Testing Project  
 - ✅ DARE IT Automated Testing Project  
 
 ---
 
-## 🎓 Courses, Training and Mentoring
+## Courses, Training and Mentoring
 
 - Manual Testing – DARE IT  
 - Automated Testing (Basics) – DARE IT  
@@ -39,7 +39,7 @@ Welcome to my testing portfolio. I'm a passionate beginner in manual testing wit
 
 ---
 
-## 📫 How to Reach Me
+## How to Reach Me
 
 - 📧 Email: wmozalewska@gmail.com  
 - 🔗 LinkedIn: [Your LinkedIn Profile](#) *(replace this with actual link)*  
