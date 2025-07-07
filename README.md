@@ -1,5 +1,5 @@
 # sqa-portfolio
-i! I'm Wika! I'm passionate learner of software testing.
+Hi! I'm Wika! I'm passionate learner of software testing.
 ## 🔗 Table of Contents
 - [📜 About Me](#about-me)
 - [📁 Projects](#projects)
