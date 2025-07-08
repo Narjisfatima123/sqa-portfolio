@@ -10,9 +10,9 @@
 - [Certifications](#certifications)
 - [Tools](#tools)
 - [Working Experiance](#working-experiance)
-- [Examples Of My Work](#examples-of-my-work)
-- [Test Casesl](#test-cases)
-- [Bug Reports And Work In Jira](#bug-report-and-work-in-jira)
+- [Examples of My Work](#examples-of-my-work)
+  - [Test Cases](#test-cases)
+  - [Bug Reports and Work in Jira](#bug-reports-and-work-in-jira)
 - [How to Reach Me](#how-to-reach-me)
 
 
@@ -101,17 +101,21 @@ Mark tasks or bugs with priority levels (e.g., Low, Medium, High, Urgent) to gui
 Define deadlines to ensure timely progress and completion of testing activities or bug fixes.
 
 - 🔄 Track Status
+
 Monitor the progress of tasks or bugs through customizable statuses (e.g., Open, In Progress, Blocked, Resolved, Closed).
 
 -------
 
- ## Example OF My Work
 
-**Test Cases**
-- Test Cases – Chatbot Project [CHAT BOT PROJECT- Test Cases.xlsx](https://github.com/user-attachments/files/21120260/CHAT.BOT.PROJECT-.Test.Cases.xlsx)
-- Test Cases – Crm Project  [CRM TEST CASES.xlsx](https://github.com/user-attachments/files/21120976/CRM.TEST.CASES.xlsx)
- **Bug Reports And Work In Jira**
+## Examples of My Work
 
+### Test Cases
+- [CHAT BOT PROJECT – Test Cases.xlsx](https://github.com/user-attachments/files/21120260/CHAT.BOT.PROJECT-.Test.Cases.xlsx)
+- [CRM PROJECT – Test Cases.xlsx](https://github.com/user-attachments/files/21121141/CRM.PROJECT-Test.Cases.xlsx)
+
+### Bug Reports and Work in Jira
+(Describe your JIRA work here or link screenshots)
+-----
  -----------
 ## How to Reach Me
 
