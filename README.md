@@ -11,7 +11,7 @@
 - [Tools](#tools)
 - [Working Experiance](#working-experiance)
 - [Examples Of My Work](#examples-of-my-work)
-- [Test Cases And Work In TestRail](#test-cases-and-work-in-testrail)
+- [Test Casesl](#test-cases)
 - [Bug Reports And Work In Jira](#bug-report-and-work-in-jira)
 - [How to Reach Me](#how-to-reach-me)
 
@@ -126,11 +126,16 @@ Monitor the progress of tasks or bugs through customizable statuses (e.g., Open,
 - Made multiple websites responsive (USA, UK), ensuring seamless usability across devices.
 - Prepared detailed documentation explaining website functionality.
 - Conducted Functional Testing, UI/UX Testing and documented bugs in Clickup clearly for quick resolution.
-  
+ 
 
---------
+
+--------[
+
    ## Example OF My Work
 
+**Test Cases**
+- Test Cases – Chatbot Project [CHAT BOT PROJECT- Test Cases.xlsx](https://github.com/user-attachments/files/21120260/CHAT.BOT.PROJECT-.Test.Cases.xlsx)
+- Test Cases – Crm Project  [CRM PROJECT TEST CASES.xlsx](https://github.com/user-attachments/files/21120231/CRM.PROJECT.TEST.CASES.xlsx)
  **Bug Reports And Work In Jira**
 
  -----------
