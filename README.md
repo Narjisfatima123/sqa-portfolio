@@ -16,7 +16,7 @@
 - [How to Reach Me](#how-to-reach-me)
 ---------------
 ## About Me
-
+-
 I am a detail-oriented and results-driven Quality Assurance professional with hands-on experience in manual testing and quality control. After completing an intensive three-month internship, I transitioned into a Junior QA role where I took on broader responsibilities across the software development lifecycle. My expertise includes defect reporting, test execution, and process optimization. Known for a structured approach, strong team collaboration, and a commitment to delivering reliable, user-focused products. I continuously strive to improve quality standards and ensure seamless user experiences.
 ---
 
