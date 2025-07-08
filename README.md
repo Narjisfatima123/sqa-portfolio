@@ -104,43 +104,18 @@ Define deadlines to ensure timely progress and completion of testing activities 
 Monitor the progress of tasks or bugs through customizable statuses (e.g., Open, In Progress, Blocked, Resolved, Closed).
 
 -------
-## Working Experiance
 
-**Kingdom Vision | Nov 24 - Present**
-
-- Conduct Functional, Regression, Sanity, and Smoke Testing, Re-testing, UI/UX Testing to validate software stability, reliability, and performance.
-- Work closely with developers to identify, troubleshoot, and resolve issues, ensuring seamless software functionality.
-- Develop and maintain test cases for better test coverage.
-- Ensure compliance with industry quality and security standards.
-
- **Atompoint | Aug -23 - Oct 23**
-
-- Proficient in manual Testing, functional Testing, Regression Testing, Sanity Testing, Re- Testing, Mobile Testing, and UI Testing. 
-- Developed and managed detailed test cases using Excel, ensuring comprehensive test coverage and accuracy. 
-- Accurately reported bugs in Jira with clear reproduction steps, enabling efficient resolution.
-- Conducted detailed bug testing to find root causes, boosting software quality and reliability.
-- Skilled in agile environments, adapting to project needs and managing multiple projects to meet deadlines and quality standards.
-
-**Kingdom Vision | Aug 24 - Oct 24**
-
-- Made multiple websites responsive (USA, UK), ensuring seamless usability across devices.
-- Prepared detailed documentation explaining website functionality.
-- Conducted Functional Testing, UI/UX Testing and documented bugs in Clickup clearly for quick resolution.
- 
-
-
---------[
-
-   ## Example OF My Work
+ ## Example OF My Work
 
 **Test Cases**
 - Test Cases – Chatbot Project [CHAT BOT PROJECT- Test Cases.xlsx](https://github.com/user-attachments/files/21120260/CHAT.BOT.PROJECT-.Test.Cases.xlsx)
-- Test Cases – Crm Project  [CRM PROJECT TEST CASES.xlsx](https://github.com/user-attachments/files/21120231/CRM.PROJECT.TEST.CASES.xlsx)
+- Test Cases – Crm Project  [CRM TEST CASES.xlsx](https://github.com/user-attachments/files/21120976/CRM.TEST.CASES.xlsx)
  **Bug Reports And Work In Jira**
 
  -----------
 ## How to Reach Me
 
-- 📧 Email: narjisfatima202@gmail.com  
-- 🔗 LinkedIn:[LinkedIn Profile](#) *(https://www.linkedin.com/in/narjisfatima202)*  
-- 💼 Open to internships, freelance, and QA learning roles  
+-  Email: narjisfatima202@gmail.com  
+-  LinkedIn:[linkedin.com/in/narjisfatima202](https://www.linkedin.com/in/narjisfatima202)   
+- Open to freelance and QA learning roles
+
