@@ -9,10 +9,10 @@
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Tools](#tools)
-- [Working Experiance](#working-exoeriance)
--  [Examples Of My Work](#examples-of-my-work)
-- [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
-- [Bug reports and work in Jira](#bug-report-and-work-in-jira)
+- [Working Experiance](#working-experiance)
+- [Examples Of My Work](#examples-of-my-work)
+- [Test Cases And Work In TestRail](#test-cases-and-work-in-testrail)
+- [Bug Reports And Work In Jira](#bug-report-and-work-in-jira)
 - [How to Reach Me](#how-to-reach-me)
 
 
@@ -134,7 +134,8 @@ Monitor the progress of tasks or bugs through customizable statuses (e.g., Open,
 
 --------
    ## Example OF My Work
- **Bug reports and work in Jira**
+
+ **Bug Reports And Work In Jira**
  
 ## How to Reach Me
 
