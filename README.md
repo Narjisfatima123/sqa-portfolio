@@ -9,9 +9,9 @@
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Tools](#tools)
-- [Examples Of My Work](#exmaple-of-my-work)
-  -[Test cases and work in TestRail](#)
-  - [Bug reports and work in Jira](#)
+- [Examples Of My Work]
+  -[Test cases and work in TestRail](#test-cases-and-work-in-testail)
+  - [Bug reports and work in Jira](#bug-report-and-work-in-jira)
 - [Working Experiance](#working-exoeriance)
 - [How to Reach Me](#how-to-reach-me)
 
@@ -130,8 +130,12 @@ Monitor the progress of tasks or bugs through customizable statuses (e.g., Open,
 - Made multiple websites responsive (USA, UK), ensuring seamless usability across devices.
 - Prepared detailed documentation explaining website functionality.
 - Conducted Functional Testing, UI/UX Testing and documented bugs in Clickup clearly for quick resolution.
+  
+
+--------
    ## Example OF My Work
  **Bug reports and work in Jira**
+ 
 ## How to Reach Me
 
 - 📧 Email: narjisfatima202@gmail.com  
