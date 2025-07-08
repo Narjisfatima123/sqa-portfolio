@@ -14,17 +14,10 @@
   - [Test Cases](#test-cases)
   - [Bug Reports and Work in Jira](#bug-reports-and-work-in-jira)
 - [How to Reach Me](#how-to-reach-me)
-
-
-
-
 ---------------
-
-
 ## About Me
 
 I am a detail-oriented and results-driven Quality Assurance professional with hands-on experience in manual testing and quality control. After completing an intensive three-month internship, I transitioned into a Junior QA role where I took on broader responsibilities across the software development lifecycle. My expertise includes defect reporting, test execution, and process optimization. Known for a structured approach, strong team collaboration, and a commitment to delivering reliable, user-focused products. I continuously strive to improve quality standards and ensure seamless user experiences.
-
 ---
 
  ## Skills
@@ -61,52 +54,14 @@ API Testing and basic Overview of JMETER
 ---
 ## Tools
 
-**Browser Developer Tools**
-**Postman - basics**
-**Slack**
-**Teams**
-
-**Mind Maps & Diagrams**
-- Skilled in designing clean, visually appealing mind maps and diagrams to organize complex ideas, workflows, and test processes. Able to simplify and structure information for better understanding, collaboration, and presentation—ideal for test planning, requirement analysis, and retrospectives.
-
-**Jira**
-
-- 📝 Log Bugs or Create Tasks
-Create detailed issues with descriptions, steps to reproduce, screenshots, and attachments for clarity and traceability.
-
-- 👤 Assign Issues
-Assign bugs or tasks to relevant team members, ensuring clear ownership and responsibility.
-
-- 📌 Set Priorities
-Use Jira’s priority levels (Highest, High, Medium, Low, Lowest) to define the urgency and impact of each issue.
-
-- 📅 Define Due Dates & Sprint Cycles
-Set deadlines or assign tasks to sprints to manage timelines and team velocity.
-
-- 🔄 Track Workflow Status
-Use customizable workflows and boards (e.g., To Do, In Progress, QA, Done) to track issue status in real time.
-
- **ClickUP**
-
-- 📝 Create Tasks or Bugs
-Initiate new tasks or bug reports with clear titles and detailed descriptions to define scope and expectations.
-
-- 👤 Assign Tasks
-Assign tasks or bugs to specific team members based on roles and responsibilities for accountability and ownership.
-
-- 📌 Set Priorities
-Mark tasks or bugs with priority levels (e.g., Low, Medium, High, Urgent) to guide focus and urgency.
-
-- 📅 Set Due Dates
-Define deadlines to ensure timely progress and completion of testing activities or bug fixes.
-
-- 🔄 Track Status
-
-Monitor the progress of tasks or bugs through customizable statuses (e.g., Open, In Progress, Blocked, Resolved, Closed).
-
+- **Browser Developer Tools**
+- **Postman - Basics**
+- **Slack**
+- **Teams**
+- **Mind Maps & Diagrams**
+- **Jira**
+- **ClickUP**
 -------
-
-
 ## Examples of My Work
 
 ### Test Cases
