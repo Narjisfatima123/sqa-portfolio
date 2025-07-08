@@ -12,14 +12,12 @@
 - [How to Reach Me](#how-to-reach-me)
 
 
-Skills
-Certifications 
-Tools 
+
 Examples of my work
-Test cases and work in TestRail
-Bug reports and work in Jira
-Mindmaps and diagrams
-Books I have read
+ Test cases and work in TestRail
+  Bug reports and work in Jira
+ Mindmaps and diagrams
+ Scripts for PICT (pairwise testing)
 ---------------
 
 
@@ -63,6 +61,11 @@ API Testing and basic Overview of JMETER
 ---
 ## Tools
 
+**Browser developer tools**
+
+**Mind Maps & Diagrams**
+Skilled in designing clean, visually appealing mind maps and diagrams to organize complex ideas, workflows, and test processes. Able to simplify and structure information for better understanding, collaboration, and presentation—ideal for test planning, requirement analysis, and retrospectives.
+
 **Jira**
 
 - 📝 Log Bugs or Create Tasks
@@ -100,5 +103,5 @@ Monitor the progress of tasks or bugs through customizable statuses (e.g., Open,
 ## How to Reach Me
 
 - 📧 Email: narjisfatima202@gmail.com  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#) *(LinkedIn Profile)*  
+- 🔗 LinkedIn:[LinkedIn Profile](#) *(https://www.linkedin.com/in/narjisfatima202)*  
 - 💼 Open to internships, freelance, and QA learning roles  
