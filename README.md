@@ -9,10 +9,10 @@
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Tools](#tools)
-- [Examples Of My Work]
-  -[Test cases and work in TestRail](#test-cases-and-work-in-testail)
-  - [Bug reports and work in Jira](#bug-report-and-work-in-jira)
 - [Working Experiance](#working-exoeriance)
+-  [Examples Of My Work]
+- [Test cases and work in TestRail](#test-cases-and-work-in-testrail)
+- [Bug reports and work in Jira](#bug-report-and-work-in-jira)
 - [How to Reach Me](#how-to-reach-me)
 
 
