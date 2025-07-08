@@ -132,7 +132,8 @@ Monitor the progress of tasks or bugs through customizable statuses (e.g., Open,
    ## Example OF My Work
 
  **Bug Reports And Work In Jira**
- 
+
+ -----------
 ## How to Reach Me
 
 - 📧 Email: narjisfatima202@gmail.com  
