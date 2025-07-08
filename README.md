@@ -45,25 +45,60 @@ Strong analytical and problem-solving abilities, with a keen attention to detail
 
 ---
 
-## Courses, Training and Mentoring
+## Certifications 
 
 - **Software Quality Assurance Bootcamp**
 ConsulNet Corporation | May 23 - July 23 
  
-- **QA Fundamentals **
+- **QA Fundamentals**
 API Testing and basic Overview of JMETER 
-  10Pearls Pakistan ‘
+  10Pearls Pakistan 
 
-- **Scrum Foundation professional certificate **
+- **Scrum Foundation professional certificate**
   CertiProf 
 
 - **Selenium with Java Automation**
   SQA Training
 
 ---
+## Tools
+
+**Jira**
+
+- 📝 Log Bugs or Create Tasks
+Create detailed issues with descriptions, steps to reproduce, screenshots, and attachments for clarity and traceability.
+
+- 👤 Assign Issues
+Assign bugs or tasks to relevant team members, ensuring clear ownership and responsibility.
+
+- 📌 Set Priorities
+Use Jira’s priority levels (Highest, High, Medium, Low, Lowest) to define the urgency and impact of each issue.
+
+- 📅 Define Due Dates & Sprint Cycles
+Set deadlines or assign tasks to sprints to manage timelines and team velocity.
+
+- 🔄 Track Workflow Status
+Use customizable workflows and boards (e.g., To Do, In Progress, QA, Done) to track issue status in real time.
+
+ **ClickUP**
+
+- 📝 Create Tasks or Bugs
+Initiate new tasks or bug reports with clear titles and detailed descriptions to define scope and expectations.
+
+- 👤 Assign Tasks
+Assign tasks or bugs to specific team members based on roles and responsibilities for accountability and ownership.
+
+- 📌 Set Priorities
+Mark tasks or bugs with priority levels (e.g., Low, Medium, High, Urgent) to guide focus and urgency.
+
+- 📅 Set Due Dates
+Define deadlines to ensure timely progress and completion of testing activities or bug fixes.
+
+- 🔄 Track Status
+Monitor the progress of tasks or bugs through customizable statuses (e.g., Open, In Progress, Blocked, Resolved, Closed).
 
 ## How to Reach Me
 
-- 📧 Email: wmozalewska@gmail.com  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#) *(replace this with actual link)*  
+- 📧 Email: narjisfatima202@gmail.com  
+- 🔗 LinkedIn: [Your LinkedIn Profile](#) *(LinkedIn Profile)*  
 - 💼 Open to internships, freelance, and QA learning roles  
