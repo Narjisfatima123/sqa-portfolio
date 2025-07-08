@@ -9,6 +9,10 @@
 - [Skills](#skills)
 - [Certifications](#certifications)
 - [Tools](#tools)
+- [Examples Of My Work](#exmaple-of-my-work)
+  -[Test cases and work in TestRail](#)
+  - [Bug reports and work in Jira](#)
+- [Working Experiance](#working-exoeriance)
 - [How to Reach Me](#how-to-reach-me)
 
 
@@ -61,10 +65,13 @@ API Testing and basic Overview of JMETER
 ---
 ## Tools
 
-**Browser developer tools**
+**Browser Developer Tools**
+**Postman - basics**
+**Slack**
+**Teams**
 
 **Mind Maps & Diagrams**
-Skilled in designing clean, visually appealing mind maps and diagrams to organize complex ideas, workflows, and test processes. Able to simplify and structure information for better understanding, collaboration, and presentation—ideal for test planning, requirement analysis, and retrospectives.
+- Skilled in designing clean, visually appealing mind maps and diagrams to organize complex ideas, workflows, and test processes. Able to simplify and structure information for better understanding, collaboration, and presentation—ideal for test planning, requirement analysis, and retrospectives.
 
 **Jira**
 
@@ -100,6 +107,31 @@ Define deadlines to ensure timely progress and completion of testing activities 
 - 🔄 Track Status
 Monitor the progress of tasks or bugs through customizable statuses (e.g., Open, In Progress, Blocked, Resolved, Closed).
 
+-------
+## Working Experiance
+
+**Kingdom Vision | Nov 24 - Present**
+
+- Conduct Functional, Regression, Sanity, and Smoke Testing, Re-testing, UI/UX Testing to validate software stability, reliability, and performance.
+- Work closely with developers to identify, troubleshoot, and resolve issues, ensuring seamless software functionality.
+- Develop and maintain test cases for better test coverage.
+- Ensure compliance with industry quality and security standards.
+
+ **Atompoint | Aug -23 - Oct 23**
+
+- Proficient in manual Testing, functional Testing, Regression Testing, Sanity Testing, Re- Testing, Mobile Testing, and UI Testing. 
+- Developed and managed detailed test cases using Excel, ensuring comprehensive test coverage and accuracy. 
+- Accurately reported bugs in Jira with clear reproduction steps, enabling efficient resolution.
+- Conducted detailed bug testing to find root causes, boosting software quality and reliability.
+- Skilled in agile environments, adapting to project needs and managing multiple projects to meet deadlines and quality standards.
+
+**Kingdom Vision | Aug 24 - Oct 24**
+
+- Made multiple websites responsive (USA, UK), ensuring seamless usability across devices.
+- Prepared detailed documentation explaining website functionality.
+- Conducted Functional Testing, UI/UX Testing and documented bugs in Clickup clearly for quick resolution.
+   ## Example OF My Work
+ **Bug reports and work in Jira**
 ## How to Reach Me
 
 - 📧 Email: narjisfatima202@gmail.com  
