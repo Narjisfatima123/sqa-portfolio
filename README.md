@@ -16,8 +16,8 @@
 - [How to Reach Me](#how-to-reach-me)
 ---------------
 ## About Me
--
-I am a detail-oriented and results-driven Quality Assurance professional with hands-on experience in manual testing and quality control. After completing an intensive three-month internship, I transitioned into a Junior QA role where I took on broader responsibilities across the software development lifecycle. My expertise includes defect reporting, test execution, and process optimization. Known for a structured approach, strong team collaboration, and a commitment to delivering reliable, user-focused products. I continuously strive to improve quality standards and ensure seamless user experiences.
+
+- I am a detail-oriented and results-driven Quality Assurance professional with hands-on experience in manual testing and quality control. After completing an intensive three-month internship, I transitioned into a Junior QA role where I took on broader responsibilities across the software development lifecycle. My expertise includes defect reporting, test execution, and process optimization. Known for a structured approach, strong team collaboration, and a commitment to delivering reliable, user-focused products. I continuously strive to improve quality standards and ensure seamless user experiences.
 ---
 
  ## Skills
@@ -68,8 +68,16 @@ API Testing and basic Overview of JMETER
 - [CHAT BOT PROJECT – Test Cases.xlsx](https://github.com/user-attachments/files/21120260/CHAT.BOT.PROJECT-.Test.Cases.xlsx)
 - [CRM PROJECT – Test Cases.xlsx](https://github.com/user-attachments/files/21121141/CRM.PROJECT-Test.Cases.xlsx)
 
-### Bug Reports and Work in Jira
-(Describe your JIRA work here or link screenshots)
+### Bug Reports 
+
+| Id | Title                                                                 | BUG    | Screencast   |
+|----|-----------------------------------------------------------------------|--------|--------------|
+| 1  | The registration window is cropped                                   | [BUG 1](#) | [Screencast](#) |
+| 2  | After adding new like ('polub') - the total number of likes doesn’t change | [BUG 2](#) | [Screencast](#) |
+| 3  | The quick flash of previous article before opening the new, chosen one | [BUG 3](#) | [Screencast](#) |
+| 4  | No possibility to add comment to the article                         | [BUG 4](#) | [Screencast](#) |
+| 5  | Name of the author overlaps the icons                                | [BUG 5](#) | [Screencast](#) |
+
 -----
  -----------
 ## How to Reach Me
